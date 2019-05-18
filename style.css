@@ -5,6 +5,7 @@
 }
 
 .content {
+    width: max-content;
     border: 1px #c0c0c0 solid;
     padding: 10px;
 }
